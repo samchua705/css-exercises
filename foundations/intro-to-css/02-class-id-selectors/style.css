@@ -1,0 +1,21 @@
+p.red{
+    background-color: #eea4dd;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+p.large{
+    font-size: 24px;
+}
+
+/* style for para1 */
+#para1{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+/* style for para2 */
+#para2{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
